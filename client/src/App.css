@@ -1,0 +1,33 @@
+.App-header{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.display-table{
+  display: flex;
+  flex-direction: column;
+}
+.title-text{
+  margin: 20px auto
+}
+tbody{
+  text-align: center;
+}
+.Form-box{
+  display: flex;
+  flex-direction: column;
+  
+}
+.form-wrapper{
+  margin: 0 auto;
+}
+.form-inner-box{
+  display: flex;
+}
+
+label{
+  display: flex;
+}
+.header{
+  margin: 0 auto;
+}
